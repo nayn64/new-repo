@@ -1,7 +1,8 @@
-#main headinh
-##line heading
+# main headinh
+## line heading
 this code is `init`
+
 ``
-git pull
+git pull 
 git init
 ``
